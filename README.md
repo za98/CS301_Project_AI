@@ -72,8 +72,8 @@ After research of methods that related to transformers and algorithms of sequenc
 
 ![**Figure 1: Accuracy vs. number of training samples for a sentence-level sentiment-classification task. The baseline blue line represents training from scratch and the orange line represents fine-tuning a pre-trained BERT model. Source: “Using Transfer Learning for NLP with Small Data”**
 ](https://mino-park7.github.io/images/2019/02/%EA%B7%B8%EB%A6%BC8-ablation-result3.png)
-Source: BERT [Devlin et al., 2018]
-          The following figure shows the convergence of the Masked method vs. the Left-to-Right method. This goes to show how accurate bidirectionality is even though it is costly on the memory, it is able to keep track of the sequence and keep nothing out of context.
+
+**The following figure shows the convergence of the Masked method vs. the Left-to-Right method. This goes to show how accurate bidirectionality is even though it is costly on the memory, it is able to keep track of the sequence and keep nothing out of context.**
  
 ## Experiments
 
