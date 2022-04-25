@@ -36,10 +36,10 @@ Arabic, Bulgarian, Chinese, English, French, German, Greek, Hindi, Russian, Span
 
 # Project Report
 
-**_Utilizing JAX to Analyze the Human Language
-**
-**Proposed By: Matthew Barrera, Ziad Abou-Ghali_
-**
+***Utilizing JAX to Analyze the Human Language***
+
+**Proposed By: Matthew Barrera, Ziad Abou-Ghali**
+
    
  
  
@@ -55,11 +55,23 @@ Natural Language Processing (NLP) is a branch in machine learning that is utiliz
  
 ## Introduction
 Categorizing sentence relationships is a sensitive yet critical aspect of some professional fields. Such an important task can’t be left to suffer from the potential for human error. Algorithms have evolved drastically, especially in artificial intelligence techniques such as Natural Language Processing (NLP). This branch focuses on human language and utilizes automation and manipulation to train a computer to think like a human. Given an input, a trained computer can be capable of doing many things like problem solving, risk management, and even telling funny jokes. After analyzing previously used NLP algorithms and manipulations in existing pre-trained language models, the most effective one found is the BERT algorithm proposed by Google AI. The model is based on transformers which include encoders for the input and decoders to give an output. BERT is highly efficient against the other algorithms that we will discuss later because it is able to recognize the context of all the words in the sentence. BERT operates using bidirectionality. This means that no matter which direction the model is trained to parse on the sequence given, it is able to achieve correlation with much faster processing time and less hardware constriction than the other algorithms. In the coming sections of this report, the following points will be discussed:
+
+
      1. The use of transformers and other techniques that preceded BERT that makes BERT the superior technique as a solution to the “Contradictory, My Dear Watson” Kaggle problem;
+     
+     
     2. How BERT works and what are the steps that allow it to be efficient in its nature of pattern recognition and overall execution;
+    
+    
     3. What type of data is being used and how is the data partitioned in order for the model to operate smoothly;
-    4. The JAX approach to the problem rather than the direct use of numpy and pandas and what different implementations were utilized that others didn’t; and,
+    
+    
+    4. The JAX approach to the problem rather than the direct use of numpy and pandas and what different implementations were utilized that others didn’t.
+    
+    
     5. The key results and main take away from the BERT algorithm and changes could be done and it can benefit sectors in the professional space that ultimately can further automate.
+    
+    
  
 ## Related Work
 The origins of the BERT algorithm is rooted in previous works such as semi-supervised learning, generative pre-training, and ELMo (Embeddings from Language Models). Semi-supervised learning is the medium between unsupervised and supervised learning. Knowing that we have a lot of data available on the world wide web to serve our purpose for these algorithms, it is very time consuming and memory costly in order to label the data to make it accessible for the learning model. Thus, working on unlabeled data by clustering and also classifying the dataset with a small input of label data gives us semi-supervised learning. This was a core starting point for BERT because it gave a concise way to generalize the algorithm for large amounts of data. Generative Pre-Training or GPT is where BERT runs a close relationship with as GPT’s take in sequence as input and output text that correlates to problems such as question answering, language translation, and other complex problems in automation. Just like BERT, GPT runs as a transformer model with an encoder and decoder architecture, but the only drawbacks are in its long term memory across multiple trials and some biases according to papers. ELMo also gives a relation to BERT as it takes the word from input and converts them to numbers in order to make operations. ELMo is context based, the model senses the words around it and given the task at hand, can return back the same word in different meanings in correlation to the sentence. Overall, all of these methods are the precursor to the BERT algorithm as some involve transformers which is the core to how the algorithm works.
