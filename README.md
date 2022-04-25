@@ -1,4 +1,4 @@
-*Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly.* 
+* Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly. * 
 
 
 *Thus, the proposal and kaggle competition will remain the same.*
