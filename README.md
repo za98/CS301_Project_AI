@@ -31,9 +31,9 @@ The languages included in the competition's data sets are:
 Arabic, Bulgarian, Chinese, English, French, German, Greek, Hindi, Russian, Spanish, Swahili, Thai, Turkish, Urdu and Vietnamese.
 ```
 
-Utilizing JAX to Analyze the Human Language
+**Utilizing JAX to Analyze the Human Language
 Proposed By
-Matthew Barrera, Ziad Abou-Ghali
+Matthew Barrera, Ziad Abou-Ghali_**
  
    
  
