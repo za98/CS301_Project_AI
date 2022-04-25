@@ -57,13 +57,13 @@ Natural Language Processing (NLP) is a branch in machine learning that is utiliz
 Categorizing sentence relationships is a sensitive yet critical aspect of some professional fields. Such an important task can’t be left to suffer from the potential for human error. Algorithms have evolved drastically, especially in artificial intelligence techniques such as Natural Language Processing (NLP). This branch focuses on human language and utilizes automation and manipulation to train a computer to think like a human. Given an input, a trained computer can be capable of doing many things like problem solving, risk management, and even telling funny jokes. After analyzing previously used NLP algorithms and manipulations in existing pre-trained language models, the most effective one found is the BERT algorithm proposed by Google AI. The model is based on transformers which include encoders for the input and decoders to give an output. BERT is highly efficient against the other algorithms that we will discuss later because it is able to recognize the context of all the words in the sentence. BERT operates using bidirectionality. This means that no matter which direction the model is trained to parse on the sequence given, it is able to achieve correlation with much faster processing time and less hardware constriction than the other algorithms. In the coming sections of this report, the following points will be discussed:
 
 
-  1. The use of transformers and other techniques that preceded BERT that makes BERT the superior technique as a solution to the “Contradictory, My Dear Watson” Kaggle problem;
+  1. The use of transformers and other techniques that preceded BERT that makes BERT the superior technique as a solution to the “Contradictory, My Dear Watson” Kaggle problem.
      
      
-  2. How BERT works and what are the steps that allow it to be efficient in its nature of pattern recognition and overall execution;
+  2. How BERT works and what are the steps that allow it to be efficient in its nature of pattern recognition and overall execution.
     
     
-  3. What type of data is being used and how is the data partitioned in order for the model to operate smoothly;
+  3. What type of data is being used and how is the data partitioned in order for the model to operate smoothly.
     
     
   4. The JAX approach to the problem rather than the direct use of numpy and pandas and what different implementations were utilized that others didn’t.
