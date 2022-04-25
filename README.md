@@ -1,4 +1,4 @@
-*Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly.
+_*Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly._
 
 # Company name: Clarity Inc.
 
