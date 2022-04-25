@@ -35,7 +35,12 @@ Arabic, Bulgarian, Chinese, English, French, German, Greek, Hindi, Russian, Span
 
 ## Code Running Tips 
 **1. Open the Group 3 .ipynb file.**
+
+
 **2. Open in Collab if you wish to run.**
+
+
+
 **3. Follow the steps in order, each one needs to be processed.**
 
 
