@@ -1,10 +1,10 @@
-* Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly. * 
+* Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly. 
 
 
-*Thus, the proposal and kaggle competition will remain the same.*
+* Thus, the proposal and kaggle competition will remain the same.
 
 
-*However, since the former third member may end up keeping the original company name, we will change ours to avoid overlap.*
+* However, since the former third member may end up keeping the original company name, we will change ours to avoid overlap.
 
 
 # Company name: Golden Word
@@ -113,11 +113,11 @@ The BERT algorithm has shown a tremendous amount of success across many NLP comp
  
 ## Citations
 
-*Bert NLP model explained for complete beginners. ProjectPro. (n.d.). Retrieved April 24, 2022, from https://www.projectpro.io/article/bert-nlp-model-explained/558#:~:text=Disadvantages%20of%20BERT,-Most%20of%20the&text=They%20include%3A,It%20is%20expensive.*
+* Bert NLP model explained for complete beginners. ProjectPro. (n.d.). Retrieved April 24, 2022, from https://www.projectpro.io/article/bert-nlp-model-explained/558#:~:text=Disadvantages%20of%20BERT,-Most%20of%20the&text=They%20include%3A,It%20is%20expensive.
 
 
-*Cho, K., van Merrienboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014, September 3). Learning phrase representations using RNN encoder-decoder for statistical machine translation. arXiv.org. Retrieved April 24, 2022, from https://arxiv.org/abs/1406.1078*
+* Cho, K., van Merrienboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014, September 3). Learning phrase representations using RNN encoder-decoder for statistical machine translation. arXiv.org. Retrieved April 24, 2022, from https://arxiv.org/abs/1406.1078
 
 
-*Why Bert fails in commercial environments. KDnuggets. (n.d.). Retrieved April 24, 2022, from https://www.kdnuggets.com/2020/03/bert-fails-commercial-environments.html*
- 
+* Why Bert fails in commercial environments. KDnuggets. (n.d.). Retrieved April 24, 2022, from https://www.kdnuggets.com/2020/03/bert-fails-commercial-environments.html
+
