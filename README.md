@@ -36,10 +36,10 @@ Arabic, Bulgarian, Chinese, English, French, German, Greek, Hindi, Russian, Span
 
 # Project Report
 
-Utilizing JAX to Analyze the Human Language
-
-Proposed By: Matthew Barrera, Ziad Abou-Ghali
-
+**_Utilizing JAX to Analyze the Human Language
+**
+**Proposed By: Matthew Barrera, Ziad Abou-Ghali_
+**
    
  
  
