@@ -91,7 +91,7 @@ After research of methods that related to transformers and algorithms of sequenc
 **
 ](https://mino-park7.github.io/images/2019/02/%EA%B7%B8%EB%A6%BC8-ablation-result3.png)
 
-**The following figure shows the convergence of the Masked method vs. the Left-to-Right method. This goes to show how accurate bidirectionality is even though it is costly on the memory, it is able to keep track of the sequence and keep nothing out of context.**
+The following figure shows the convergence of the Masked method vs. the Left-to-Right method. This goes to show how accurate bidirectionality is even though it is costly on the memory, it is able to keep track of the sequence and keep nothing out of context.
  
 ## Experiments
 
