@@ -1,6 +1,6 @@
-* Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly. * 
-* Thus, the proposal and kaggle competition will remain the same. *
-* However, since the former third member may end up keeping the original company name, we will change ours to avoid overlap. *
+*Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly.* 
+*Thus, the proposal and kaggle competition will remain the same.*
+*However, since the former third member may end up keeping the original company name, we will change ours to avoid overlap.*
 # Company name: Golden Word
 
 “The human language is rich with opportunity for business growth! Let us help you turn your words to gold.”
